@@ -8,18 +8,16 @@ I currently am working to solve this problem:
 
 💸 Through investing at a [student-run seed-stage venture fund](http://frontrow.vc/) and giving opportunities to founders who many overlook for being “too young”
 
-Previously: 
-🛍️ [Empowering small businesses](https://www.shopify.ca/partners/blog/shopify-order-editing)so that they are able to deal with the unpredictable nature of eCommerce 
+<details>
+<summary>Previously:</summary> 
+🛍️ Empowering [small businesses](www.shopify.ca/partners/blog/shopify-order-editing)so that they are able to deal with the unpredictable nature of eCommerce 
 
 🎒By working at a [startup that builds a unique income share agreement](https://ursa.io/) to fund immigrants looking for higher education, without having to bear the financial burden.
-
+</details>
 
 Underrepresented founders, immigrants, and data-enthusiasts have a passionate drive to change the world. However, opportunities — especially in underrepresented communities— are not distributed evenly. I want to do my part and even the starting line. 
 
-I'm always looking for my next thing
-
-📫 How to reach me: 
-- Email: jalenalee@gmail.com 
+Always looking to meet others and make new friends so please feel free to reach out at jalenalee@gmail.com 
 
 <!--
 **jalenalee/jalenalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
