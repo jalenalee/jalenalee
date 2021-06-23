@@ -11,7 +11,7 @@ I currently am working to solve this problem:
 <details>
 <summary>Previously:</summary> 
 🛍️ Empowering [small businesses](www.shopify.ca/partners/blog/shopify-order-editing)so that they are able to deal with the unpredictable nature of eCommerce 
-
+<break>
 🎒By working at a [startup that builds a unique income share agreement](https://ursa.io/) to fund immigrants looking for higher education, without having to bear the financial burden.
 </details>
 
