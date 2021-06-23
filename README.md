@@ -1,4 +1,4 @@
-### 👋🏼 Hey! It's Jalena, welcome to my humble abode. 🌿
+### 👋🏼 Hey! It's Jalena, welcome to my small but growing collection of projects. 🌿
 
 Tech is reshaping how we learn and come together. But, now more than ever, we see how the world isn’t equitable to certain groups — like new immigrants with financial and language barriers, students that don’t go to desirable schools, freshman founders — leaving an uphill climb between the impact they’re capable of, and what society expects from them.
 
