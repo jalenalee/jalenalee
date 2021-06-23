@@ -17,7 +17,7 @@ I currently am working to solve this problem:
 
 Underrepresented founders, immigrants, and data-enthusiasts have a passionate drive to change the world. However, opportunities — especially in underrepresented communities— are not distributed evenly. I want to do my part and even the starting line. 
 
-Always looking to meet others and make new friends so please feel free to reach out at jalenalee@gmail.com 
+Always looking to meet new friends so please feel free to reach out at jalenalee@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/jalena-lee/)
 
 <!--
 **jalenalee/jalenalee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
